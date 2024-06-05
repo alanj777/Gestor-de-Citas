@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  #root {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .one-half {
+    flex: 0 0 45%;
+  }

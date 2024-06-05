@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 3rem;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .one-half {
+    flex: 0 0 45%;
+  }
